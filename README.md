@@ -1,6 +1,4 @@
-
 #Clicky Game
-
 
 ##Overview
 
@@ -15,7 +13,6 @@ The application should keep track of the user's score. The user's score should b
 Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
 Once the user's score is reset after an incorrect guess, the game should restart.
 When complete, the application should be deployed to Github Pages. See the README generated with Create React App for instructions on deploying the application to Github Pages.
-
 
 ##Minimum Requirements
 
