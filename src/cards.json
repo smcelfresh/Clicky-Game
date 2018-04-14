@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "cerveza",
+    "image": "./images/image1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "beachball",
+    "image": "./images/image2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "hammock",
+    "image": "./images/image3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "volkswagon",
+    "image": "./images/image4.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "sangria",
+    "image": "./images/image5.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "beachchair",
+    "image": "./images/image6.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "party",
+    "image": "./images/image7.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "doggie",
+    "image": "./images/image8.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "sunset",
+    "image": "./images/image9.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "sandybeach",
+    "image": "./images/image10.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "flowers",
+    "image": "./images/image11.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "surfer",
+    "image": "./images/image12.jpg",
+    "clicked": false
+  }
+]
